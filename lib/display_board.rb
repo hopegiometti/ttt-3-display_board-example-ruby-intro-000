@@ -1,4 +1,9 @@
 def display_board
-  puts "A Tic Tac Toe Board"
+  puts "a tic tac toe board"
 end
-board = ["   ", "   ", "   "]
+
+a = puts "   |   |   "
+tic = puts "-----------"
+tac = puts "   |   |   "
+toe = puts "-----------"
+board = puts "   |   |   "
