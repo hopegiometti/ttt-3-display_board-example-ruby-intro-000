@@ -1,5 +1,5 @@
 def display_board
-  a_tic_tac_toe_board = "   |   |
+  a_tic_tac_toe_board = "   |   |   
  -----------
    |   |
  -----------
